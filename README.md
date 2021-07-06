@@ -1,6 +1,6 @@
 ## Merge3D
 
-This repository includes code used in Bush et al. 2021 *in prep* to create a 3D whisker shape from whiskers tracked in two separate camera views. 
+This repository includes code used in Bush et al. 2021 "Continuous, multidimensional coding of 3D complex tactile stimuli by primary sensory neurons of the vibrissal system" to create a 3D whisker shape from whiskers tracked in two separate camera views. 
 
 The primary entry point to the merging process is the file `mergeLoop.m`. This function takes the following inputs:
 
